@@ -1,0 +1,7 @@
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\bin\iCouldTest.dll
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\bin\iCouldTest.pdb
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\obj\Debug\iCouldTest.dll
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\obj\Debug\iCouldTest.pdb
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\bin\Oracle.DataAccess.dll
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\bin\System.Data.OracleClient.dll
+C:\Users\m702028\Documents\Visual Studio 2012\Projects\CONNECT_TEST\iCouldTest\obj\Debug\iCouldTest.csprojResolveAssemblyReference.cache
